@@ -1,0 +1,91 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+  /* background-image: url(https://source.unsplash.com/random/?quiz); */
+  min-height: 90vh;
+	background-size: cover; 
+	background-position: center center;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.quiz-container {
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+  box-sizing: content-box;
+  background-color: white;
+  background: #bdc3c7;
+  background: linear-gradient(to right, #bdc3c7,#2c3e50);
+  border-radius: 30px;
+  width: 600px;
+  max-width: 90%; 
+  border: 1px solid #bdc3c7;
+}
+
+.quiz-header {
+  padding: 2rem;
+}
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+button {
+	
+  width: 100%;
+  overflow: hidden;
+  background-color: rgb(103, 103, 200);
+  align-items: center;
+  appearance: button;
+  background-color: #0276ff;
+  border-style: none;
+  box-shadow: rgba(255, 255, 255, 0.26) 0 1px 2px inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0; 
+  font-family: "RM Neue", sans-serif;
+  font-size: 100%;
+  line-height: 1.15;
+  margin: 0;
+  padding: 1.5rem ;
+  text-align: center;
+  text-transform: none;
+  transition: color 0.13s ease-in-out, background 0.13s ease-in-out,
+ opacity 0.13s ease-in-out, box-shadow 0.13s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  font-size: 1.5rem;
+  background: #0f0c29;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+button:active {
+  background-color: #006ae8;
+}
+
+button:hover {
+  background-color: #1c84ff;
+}
+h2{
+	margin:0;
+	margin-bottom: 1.5rem;
+}
+ul li{
+	margin :1rem 0 ;
+	font-size: 1.4rem;
+
+}
+ul li label{
+	cursor: pointer;
+}
