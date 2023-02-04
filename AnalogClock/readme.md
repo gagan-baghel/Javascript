@@ -7,10 +7,10 @@ the outside and two hands,
 a shorter one to measure hours and a longer one to measure minutes.
 A digital clock is a clock which simply shows numbers to denote the time.
 
-    #Designed With the Help of 
-    |-- HTML --- CSS --- JAVASCRIPT --|
-    Take the data with Javascript date object 
-    and represent it with the help of html and css
+#Designed With the Help of 
+|-- HTML --- CSS --- JAVASCRIPT --|
+Take the data with Javascript date object 
+and represent it with the help of html and css
 
 The background image if fetched using the unsplash image api it
 auromatically get updated whenever the page is refreshed 
