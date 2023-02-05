@@ -5,8 +5,15 @@ HOPE YPU LIKE IT
 HOISTED PROJECT LINKS ARE INSIDE THE FOLDERS
 
 # Dice Game
+![DICE_GAME](https://user-images.githubusercontent.com/78648366/216834978-5a93cd28-3f1e-4ac9-ad15-74a9087decb9.gif)
+
 # DrumKit
+![DRUMKIT](https://user-images.githubusercontent.com/78648366/216834944-0fdb2b6b-cd95-4996-8ef1-14c646691306.gif)
+
+
 # Simon Game
+![SimonGame](https://user-images.githubusercontent.com/78648366/216834836-6b5087d3-fc82-4735-922e-43c83ffb27c0.gif)
+
 
 # ANALOG CLOCK
 ![AnalogClock](https://user-images.githubusercontent.com/78648366/216779302-a088ab8c-2fb2-4207-9398-bb6640565bf9.gif)
