@@ -7,6 +7,7 @@ This is a simple dice game made using HTML, CSS and JavaScript. The goal of the 
   2. You will see two dice on the screen with a button labeled “Roll” below them. 
   3. Refresh the page to roll the dice and get your score. 
   4. The player with the highest score wins! 
+  5. If no one win it shows DRAW
 
 Good luck and have fun!
 
