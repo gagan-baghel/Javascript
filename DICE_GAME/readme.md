@@ -1,4 +1,4 @@
-Dice Game
+# Dice Game
 
 This is a simple dice game made using HTML, CSS and JavaScript. The goal of the game is to roll the dice and get the highest score.
 
