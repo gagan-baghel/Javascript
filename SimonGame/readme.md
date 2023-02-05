@@ -19,4 +19,6 @@ It also keeps track of how long it took for each sequence to be repeated correct
 Good luck!
 
 ** HERE IS THE VISUAL REPRESENTATION OF THIS PROJECT **
+
+
 ![SimonGame](https://user-images.githubusercontent.com/78648366/216834836-6b5087d3-fc82-4735-922e-43c83ffb27c0.gif)
