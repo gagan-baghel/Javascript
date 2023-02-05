@@ -8,7 +8,7 @@ This Drumkit is a JavaScript library that allows you to create drum sounds in yo
 It provides a simple API for creating and playing drum sounds, and can be used in any web application.
 
 This is a drum kit website. In this different instruments sound is played based on the different images of instruments you click,
-also it is resposive.
+also it is resposive & play different sound with different button
 
 
 ** HERE IS THE VISUAL REPRESENTATION OF THIS PROJECT **
