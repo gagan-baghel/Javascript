@@ -10,3 +10,8 @@ This is a simple dice game made using HTML, CSS and JavaScript. The goal of the 
 
 Good luck and have fun!
 
+
+** Here is the visual representation of the game **
+
+![DICE_GAME](https://user-images.githubusercontent.com/78648366/216834978-5a93cd28-3f1e-4ac9-ad15-74a9087decb9.gif)
+
