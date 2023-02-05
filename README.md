@@ -4,9 +4,12 @@ HERE IS THE COLLECTION OF PROJECT THAT I HAVE MADI WHILE LEARNING JS
 HOPE YPU LIKE IT
 HOISTED PROJECT LINKS ARE INSIDE THE FOLDERS
 
+# Dice Game
+# DrumKit
+# Simon Game
+
 # ANALOG CLOCK
 ![AnalogClock](https://user-images.githubusercontent.com/78648366/216779302-a088ab8c-2fb2-4207-9398-bb6640565bf9.gif)
-
 
 # CALCULATOR
 ![CALCULATOR](https://user-images.githubusercontent.com/78648366/216782552-801a82da-286e-4fa3-a5cd-b97ab0a99eab.gif)
