@@ -1,6 +1,6 @@
 #  **TODO APP**
 
-NETLIFY HOISTED LINK ----- https://gb-quiz.netlify.app/
+NETLIFY HOISTED LINK ----- https://gb-bootstrap-todo-list.netlify.app/
 
 
 # Todo App with Javascript
