@@ -1,6 +1,6 @@
 # Card Flip Game
 
-NETLIFY HOISTED LINK ----- https://gb-quiz.netlify.app/
+NETLIFY HOISTED LINK ----- https://gb-card-game.netlify.app
 
 This is a simple card flip game made with HTML, CSS, Bootstrap and JavaScript. The goal of the game
 is to match all the cards in pairs by flipping them over. 
